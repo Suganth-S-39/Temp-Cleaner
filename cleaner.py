@@ -25,4 +25,4 @@ for path in paths:
             except Exception as e:
                 print(f"Skipped {item}: {e}")
 
-print("\nCleanup completed.")
+print("\nTemp cleanup completed.")
