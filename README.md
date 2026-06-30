@@ -36,4 +36,4 @@ For best results, run as Administrator.
 
 ## Author
 
-Made by Suganth S
+Suganth S
